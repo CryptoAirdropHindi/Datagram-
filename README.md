@@ -13,3 +13,4 @@ datagram-cli run -- -key YOUR_API_KEY
 ```
 
 Ganti API Key ( Open website Dashboard > Wallet > Licenses > Copy Key )
+https://dashboard.datagram.network?ref=354803212
